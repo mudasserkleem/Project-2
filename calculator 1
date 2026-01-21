@@ -100,7 +100,7 @@ button {
     <p id="loginMsg"></p>
 </div>
 
-<!-- GAME -->
+<!-- GAME  -->
 <div class="game-container" id="gameBox" style="display:none;">
     <button class="toggle" onclick="toggleTheme()">🌙 / ☀️</button>
     <h1>Guess The Number</h1>
